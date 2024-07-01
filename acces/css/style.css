@@ -77,6 +77,8 @@ h2 {
   font-family: "DM Serif Display reg";
   color: #081f32;
   font-weight: 400;
+  max-width: 200px;
+  width: 100%;
 }
 .piza-icons {
   max-width: 57px;
@@ -109,4 +111,13 @@ h2 {
   height: 100%;
   border-radius: 24px;
   background-color: #ffc22b;
+}
+.paragraf {
+  max-width: 312px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-family: "Open Sans";
+  color: #6e798c;
+  font-size: small;
 }
